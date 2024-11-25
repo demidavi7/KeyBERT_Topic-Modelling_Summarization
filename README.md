@@ -7,7 +7,7 @@ This repository explores extensions to **KeyBERT**, enhancing its capabilities f
 ## References
 
 ## Team:
-Annalisa Belloni
-Valeria Petrianni
-Davide Elio Stefano Demicheli
-Valerio Xefteris
+- Annalisa Belloni
+- Valeria Petrianni
+- Davide Elio Stefano Demicheli
+- Valerio Xefteris
