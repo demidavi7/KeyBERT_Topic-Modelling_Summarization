@@ -8,6 +8,6 @@ This repository explores extensions to **KeyBERT**, enhancing its capabilities f
 
 ## Team:
 - Annalisa Belloni
-- Valeria Petrianni
 - Davide Elio Stefano Demicheli
+- Valeria Petrianni
 - Valerio Xefteris
