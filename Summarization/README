@@ -1,0 +1,21 @@
+1. data.csv
+Descrizione: Contiene un campione di 50 MB del dataset CNN/DailyMail, un dataset utilizzato per compiti di summarization e che include articoli di giornale e i loro riassunti.
+(sembrano pochi ma funziona) 
+
+2. processed_dataset.csv
+Descrizione: Contiene i dati arricchiti ottenuti applicando la tecnica di estrazione di parole chiave con KeyBERT.
+( ci mette circa mezz'ora su 50 MB possiamo cercare di aumentare fino a 150 MB ) 
+
+3. Summarization_Pipeline.ipynb
+
+Descrizione: Notebook Python che descrive l'intera pipeline di preprocessing e arricchimento dei dati.
+( Il codice è tutto qua , ho usato distilBART per il finetuning e funziona più che decentemente. Non ho salvato il modello finetunato sui dati normali per fare il paragone , ma quello sui dati arricchiti funziona più che decentemente )
+
+
+
+
+
+BISOGNA : 
+
+1) Fine-tuning su dati non arricchiti 
+2) implementare un metodo di valutazione per paragonare i due modelli 
