@@ -1,6 +1,4 @@
-# KeyBERT extensions for Topic Modeling
-
-This repository explores extensions to **KeyBERT**, enhancing its capabilities for advanced topic modeling and analysis.
+# Dynamic Topic Modeling and Summarization using KeyBERT
 
 ## Table of contents
 
