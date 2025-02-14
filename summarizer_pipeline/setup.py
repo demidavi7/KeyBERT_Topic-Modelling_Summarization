@@ -15,7 +15,7 @@ setup(
     description="Summarize text with KeyBERT-based keyword injection and fine-tuned BART models",
     author="ValeXpoli",
     author_email="valerioxefteris.vx@gmail.com",
-    url="https://github.com/demidavi7/Topic-Modeling/summarizer_pipeline/keyword_summarizer",  # or any repo URL
+    url="https://github.com/demidavi7/Topic-Modeling/summarizer_pipeline",  # or any repo URL
     packages=find_packages(),
     python_requires=">=3.7",
     install_requires=[
