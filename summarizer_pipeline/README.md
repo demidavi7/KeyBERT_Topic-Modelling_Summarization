@@ -12,7 +12,7 @@
 To install from this GitHub repository, run:
 
 ```bash
-pip install git+https://github.com/demidavi7/Topic-Modeling/summarizer_pipeline/keyword_summarizer.git
+pip install git+https://github.com/demidavi7/Topic-Modeling.git#subdirectory=summarizer_pipeline
 ```
 
 ## Model Selection
