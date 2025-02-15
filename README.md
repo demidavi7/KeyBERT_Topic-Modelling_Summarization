@@ -1,6 +1,7 @@
 # KeyBERT for Dynamic Topic Modeling and Summarization 
 ## Overview
 This repository provides two distinct studies:
+
 First Extension - Dynamic Topic Modeling
 A pipeline designed for keyword extraction, semantic clustering, and tracking topic evolution over time.
 Uses KeyBERT for extracting representative keywords and applies topic modeling techniques to analyze trends.
