@@ -41,8 +41,11 @@ KeyBERT_Topic-Modelling_Summarization/
 └── README.md                              # Project documentation
 ```
 ## References
-[KeyBERT: Minimalist Keyword Extraction](https://github.com/MaartenGr/KeyBERT)
-[DistilBART on Hugging Face](https://huggingface.co/sshleifer/distilbart-xsum-6-6)
+
+- [KeyBERT: Minimalist Keyword Extraction](https://github.com/MaartenGr/KeyBERT)
+
+- [DistilBART on Hugging Face](https://huggingface.co/sshleifer/distilbart-xsum-6-6)
+- 
 ## Team
 - Annalisa Belloni
 - Davide Elio Stefano Demicheli
