@@ -3,10 +3,12 @@
 This repository provides two distinct studies:
 
 **First Extension** - Dynamic Topic Modeling
+
 A pipeline designed for keyword extraction, semantic clustering, and tracking topic evolution over time.
 Uses KeyBERT for extracting representative keywords and applies topic modeling techniques to analyze trends.
 
 **Second Extension**- Text Summarization using Keywords enrichment
+
 A separate study on text summarization that integrates the extractive capabilities of KeyBERT with the abstractive approach of DistilBART, aiming to enhance summary coherence and informativeness.
 
 ## Repository structure 
