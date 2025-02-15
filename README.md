@@ -39,7 +39,7 @@ To better understand each topic, we generate word clouds that showcase the most 
 2. Topic Evolution Over Time
 
 A key aspect of this project is analyzing how topics emerge, evolve, and disappear over time. The visualization below displays the normalized frequency of the top spiking topics across multiple years.
-<p align="center"> <img src="./topic_evolution_chart.png" alt="Topic Evolution Over Time" width="90%"> </p>
+<p align="center"> <img src="./topic_evaluation_chart.png" alt="Topic Evolution Over Time" width="90%"> </p>
 
 This pipeline can be used for news trend analysis, research trend discovery, and other time-based textual insights.
 
