@@ -7,8 +7,6 @@
 ## Dynamic Topic Modeling Overview
 Using KeyBERT, we extract meaningful keywords from text data and apply semantic clustering to group them into relevant topics. Additionally, we analyze topic evolution over time to uncover trends in textual datasets.
 
-# Workflow Overview
-
 The pipeline follows these steps:
 
     Input Dataset:
