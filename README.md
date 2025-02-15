@@ -20,11 +20,11 @@ KeyBERT_Topic-Modelling_Summarization/
 ├── Summarization_second_extension/        # Second extension (Summarization)
 │   ├── data-pre-processing.ipynb          # Notebook for text preprocessing
 │   ├── summarization_results_base.csv     # Base summarization results
-│   ├── summarization_results_top_list.csv # Summarization results (top-ranked lists)
-│   ├── summarization_results_top_single.csv # Summarization results (top-ranked single)
-│   ├── test_cnn.csv                        # Test dataset for CNN-based summaries
+│   ├── summarization_results_top_list.csv # Summarization results (list model)
+│   ├── summarization_results_top_single.csv # Summarization results (single model)
+│   ├── test_cnn.csv                        # CNN test data 
 │   └── training_models_and_testing.ipynb   # Notebook for training and testing summarization models
-├── summarizer_pipeline/                   # Summarization pipeline package
+├── summarizer_pipeline/                   # Summarization library package
 │   ├── build/lib/keyword_summarizer/      # Compiled summarization library
 │   ├── keyword_summarizer/                # Main summarization library code
 │   ├── keyword_summarizer.egg-info/       # Package metadata for the summarization library
