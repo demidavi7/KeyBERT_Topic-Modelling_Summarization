@@ -78,4 +78,4 @@ print("\nList model summary:\n", summary_list)
 
     Hugging Face Transformers and Sentence-Transformers for core NLP components.
     KeyBERT for keyword extraction.
-    annalisa-belloni,demidavi7, valepetr and VexPoli for publishing fine-tuned DistilBART models on the Hugging Face Hub.
+    annalisa-belloni, demidavi7, valepetr and VexPoli for publishing fine-tuned DistilBART models on the Hugging Face Hub.
