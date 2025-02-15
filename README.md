@@ -39,7 +39,9 @@ KeyBERT_Topic-Modelling_Summarization/
 │   ├── keyword_summarizer.egg-info/       # Package metadata for the summarization library
 │   ├── README.md                          # Documentation for summarization pipeline
 │   └── setup.py                           # Setup file for installing the summarization library
-└── README.md                              # Project documentation
+├── README.md                              # Project documentation
+│
+└── report.pdf                             #Project report 
 ```
 ## References
 
