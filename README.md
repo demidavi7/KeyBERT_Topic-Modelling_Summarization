@@ -13,8 +13,8 @@ Uses KeyBERT for extracting representative keywords and applies topic modeling t
 A separate study on text summarization that integrates the extractive capabilities of KeyBERT with the abstractive approach of DistilBART, aiming to enhance summary coherence and informativeness.
 [more details](https://github.com/demidavi7/KeyBERT_Topic-Modelling_Summarization/tree/main/Summarization_second_extension) 
 
-Additionally we have also added a library containing the inference pipeline for summary generation. 
-It allows for adjusting text enrichment parameters to fine-tune keyword representation and Choosing between two different models for summarization.
+We have also added a library containing the inference pipeline for summary generation. 
+It allows for adjusting text enrichment parameters to fine-tune keyword representation and choosing between two different models for summarization.
 [more details](https://github.com/demidavi7/KeyBERT_Topic-Modelling_Summarization/tree/main/summarizer_pipeline)
 
 ## Repository structure 
@@ -25,7 +25,7 @@ KeyBERT_Topic-Modelling_Summarization/
 │   ├── README.md                          # Documentation for the first extension
 │   ├── topic_evaluation_chart.png         # Topic evaluation visualization
 │   ├── wordcloud_example.png              # Sample word cloud visualization
-│   └── workflow_diagram.png               # Workflow representation of the extension
+│   └── workflow_diagram.png               # Workflow representation of the pipeline
 ├── Summarization_second_extension/        # Second extension (Summarization)
 │   ├── data-pre-processing.ipynb          # Notebook for text preprocessing
 │   ├── summarization_results_base.csv     # Base summarization results
