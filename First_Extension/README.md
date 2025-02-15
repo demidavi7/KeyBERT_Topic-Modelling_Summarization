@@ -23,6 +23,9 @@ The pipeline follows these steps:
         Visualizations are generated to highlight the emergence, peaks, and decline of different topics over time.
 
 <p align="center"> <img src="./workflow_diagram.png" alt="Workflow Diagram" width="80%"> </p>
+
+This pipeline can be used for news trend analysis, research trend discovery, and other time-based textual insights.
+
 Example Outputs
 1. Word Cloud Representation
 
@@ -32,5 +35,3 @@ To better understand each topic, we generate word clouds that showcase the most 
 
 A key aspect of this project is analyzing how topics emerge, evolve, and disappear over time. The visualization below displays the normalized frequency of the top spiking topics across multiple years.
 <p align="center"> <img src="./topic_evaluation_chart.png" alt="Topic Evolution Over Time" width="90%"> </p>
-
-This pipeline can be used for news trend analysis, research trend discovery, and other time-based textual insights.
