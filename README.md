@@ -35,7 +35,7 @@ Example Outputs
 1. Word Cloud Representation
 
 To better understand each topic, we generate word clouds that showcase the most frequent words associated with a given topic.
-<p align="center"> <img src="./wordcloud_example.png" alt="Word Cloud for Topic coronavirus covid" width="50%"> </p>
+<p align="center"> <img src="./wordcloud_example.png" alt="Word Cloud for Topic coronavirus covid" width="30%"> </p>
 2. Topic Evolution Over Time
 
 A key aspect of this project is analyzing how topics emerge, evolve, and disappear over time. The visualization below displays the normalized frequency of the top spiking topics across multiple years.
