@@ -1,4 +1,4 @@
-# Dynamic Topic Modeling and Summarization using KeyBERT
+# KeyBERT for Dynamic Topic Modeling and Summarization 
 
 ## Table of contents
 
