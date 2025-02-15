@@ -1,22 +1,22 @@
 ## Dynamic Topic Modeling Overview
-Using KeyBERT, we extract meaningful keywords from text data and apply semantic clustering to group them into relevant topics. Additionally, we analyze topic evolution over time to uncover trends in textual datasets.
+Using KeyBERT, we extract meaningful keywords from time-stamped textual data and apply semantic clustering to group them into relevant topics. We then analyze topic evolution over time to uncover interesting trends.
 
 The pipeline follows these steps:
 
     Input Dataset:
-    A dataset containing time-based textual data (e.g., news headlines) is provided.
+    A dataset containing time-stamped textual data (e.g., news headlines) is provided.
 
     Grouping by Time Period:
-    Text data is grouped by year and month to analyze topic trends.
+    Text data is grouped by year and month.
 
     Keyword Extraction:
-    We utilize KeyBERT to extract meaningful keywords from the dataset.
+    We utilize KeyBERT to extract meaningful keywords from the dataset for each year and month.
 
     Semantic Clustering:
     Extracted keywords are clustered based on their semantic similarity to form coherent topics.
 
     Topic Labeling:
-    Each cluster is manually or algorithmically assigned a label that best represents the underlying topic.
+    Each cluster is assigned a label that best represents the underlying topic.
 
     Topic Evolution Analysis:
         A matrix of topics over time is created to track topic frequency for each time period.
