@@ -4,7 +4,7 @@
 
 This extension explores a **hybrid text summarization approach**, combining:
 
-- **Extractive summarization** using **KeyBERT** to highlight the most relevant keywords.
+- **Keywords Extraction** using **KeyBERT** to highlight the most relevant keywords.
 - **Abstractive summarization** utilizing **DistilBART**, a transformer-based model, for generating more coherent summaries.
 
 The study focuses on **fine-tuning models on news article datasets** and evaluating different summarization techniques using **benchmarking metrics**.
