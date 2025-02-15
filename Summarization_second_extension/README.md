@@ -17,7 +17,7 @@ The summarization process consists of **three main stages**:
 
 ## **1. Data Preprocessing**
 - The dataset is a sub-sample of the [CNN/DailyMail news dataset](https://huggingface.co/datasets/VexPoli/cnn_sampled_dataset), containing **50,000 samples (~200MB)**.  
-  - [Dataset Source](https://huggingface.co/VexPoli)
+  - [Dataset Source](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
 
 - Two different **keyword representation strategies**:
   - **Each keyword surrounded by special tokens**.
