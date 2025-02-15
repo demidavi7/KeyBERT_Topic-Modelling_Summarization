@@ -6,12 +6,12 @@ This repository provides two distinct studies:
 
 A pipeline designed for keyword extraction, semantic clustering, and tracking topic evolution over time.
 Uses KeyBERT for extracting representative keywords and applies topic modeling techniques to analyze trends.
-[for more details move to](https://github.com/demidavi7/KeyBERT_Topic-Modelling_Summarization/tree/main/First_Extension ) 
+[more details](https://github.com/demidavi7/KeyBERT_Topic-Modelling_Summarization/tree/main/First_Extension ) 
 
 **Second Extension**- Text Summarization using Keywords enrichment
 
 A separate study on text summarization that integrates the extractive capabilities of KeyBERT with the abstractive approach of DistilBART, aiming to enhance summary coherence and informativeness.
-[for more details move to](https://github.com/demidavi7/KeyBERT_Topic-Modelling_Summarization/tree/main/Summarization_second_extension) 
+[more details](https://github.com/demidavi7/KeyBERT_Topic-Modelling_Summarization/tree/main/Summarization_second_extension) 
 
 ## Repository structure 
 ```
