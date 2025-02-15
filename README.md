@@ -9,6 +9,7 @@ Second Extension - Text Summarization using Keywords enrichment
 A separate study on text summarization that integrates the extractive capabilities of KeyBERT with the abstractive approach of DistilBART, aiming to enhance summary coherence and informativeness.
 
 ## Repository structure 
+```
 KeyBERT_Topic-Modelling_Summarization/
 ├── First_Extension/                       # First extension (Advanced Topic Modeling)
 │   ├── KeyBERT_Extension_1.ipynb          # Notebook for keyword extraction & topic modeling
@@ -30,7 +31,7 @@ KeyBERT_Topic-Modelling_Summarization/
 │   ├── README.md                          # Documentation for summarization pipeline
 │   └── setup.py                           # Setup file for installing the summarization library
 └── README.md                              # Project documentation
-
+```
 ## References
 
 ## Team
